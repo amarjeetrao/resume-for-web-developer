@@ -112,7 +112,6 @@ header .contact-container .contact-list li span {
 #main .resume-item {
   position: relative ;
   padding: 0 60px ;
-  margin-bottom: 20px ;
   padding-right: 24px;
 }
 
@@ -120,9 +119,7 @@ header .contact-container .contact-list li span {
   padding-left: 22px;
   padding-right: 40px;
 }
-#main .resume-item .inner {
-  padding-bottom: 20px ;
-}
+
 #main .resume-item h2 {
   font-size: 24px ;
   text-align: left ;
@@ -130,9 +127,8 @@ header .contact-container .contact-list li span {
 }
 #main ul li {
   position: relative ;
-  margin: 0 0 24px ;
+  margin: 0 0 16px ;
 }
-
 
 /* experience */
 .experience h3 {
