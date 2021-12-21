@@ -217,6 +217,32 @@ header .contact-container .contact-list li span {
   background: #666 ;
 }
 
+.education h3 {
+  position: relative;
+  color: #3e3833;
+  margin-bottom: 12px;
+  font-size: 16px;
+}
+
+.education h3 > em {
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.education .date {
+  position: absolute ;
+  top: 5px ;
+  right: 0 ;
+  color: #9b9b9b ;
+  font-size: 12px ;
+  font-style: italic;
+}
+
+.education .company {
+  color: #999 ;
+  font-size: 12px ;
+  font-weight: normal ;
+}
 
 /* footer */
 footer {
