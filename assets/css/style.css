@@ -24,12 +24,10 @@ header section:first-child {
   border-bottom: 1px solid #ededed ;
 }
 header h1 {
-  padding: 0 30px;
   z-index: 1 ;
   font-size: 38px ;
 }
 header .name-container {
-  padding: 0 30px;
   z-index: 1 ;
   margin: 0 ;
   font-size: 24px ;
@@ -39,9 +37,8 @@ header .name-container small {
   font-weight: normal;
 }
 header .job-container {
-    padding-left: 30px;
     padding-top: 8px;
-    padding-right: 50px;
+    padding-right: 20px;
     margin: 0;
     color: #333;
     font-weight: normal;
@@ -111,7 +108,7 @@ header .contact-container .contact-list li span {
 
 #main .resume-item {
   position: relative ;
-  padding: 0 60px ;
+  padding: 0 40px ;
   padding-right: 24px;
 }
 
@@ -137,15 +134,15 @@ header .contact-container .contact-list li span {
 }
 .experience .company {
   margin: 0 0 10px ;
-  color: #9b9b9b ;
-  font-size: 13px ;
+  color: #5c5c5c ;
+  font-size: 15px ;
   font-weight: normal ;
 }
 .experience .date {
   position: absolute ;
   top: 5px ;
   right: 0 ;
-  color: #9b9b9b ;
+  color: #5c5c5c ;
   font-size: 12px ;
   font-style: italic;
 }
@@ -172,18 +169,20 @@ header .contact-container .contact-list li span {
   margin-bottom: 12px;
   font-size: 16px;
   max-width: 70%;
+  font-weight: normal;
+  line-height: 1.2;
 }
 .project .detail {
   font-size: 12px ;
 }
 .project .detail em {
-  color: #999 ;
+  color: #5c5c5c ;
 }
 .project .date {
     position: absolute;
     top: 0;
     right: 0;
-    color: #9b9b9b;
+    color: #5c5c5c;
     font-size: 12px;
     font-style: italic;
 }
@@ -233,13 +232,13 @@ header .contact-container .contact-list li span {
   position: absolute ;
   top: 5px ;
   right: 0 ;
-  color: #9b9b9b ;
+  color: #5c5c5c ;
   font-size: 12px ;
   font-style: italic;
 }
 
 .education .company {
-  color: #999 ;
+  color: #5c5c5c ;
   font-size: 12px ;
   font-weight: normal ;
 }
