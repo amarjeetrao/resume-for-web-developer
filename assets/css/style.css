@@ -220,7 +220,7 @@ header .contact-container .contact-list li span {
 .education h3 {
   position: relative;
   color: #3e3833;
-  margin-bottom: 12px;
+  margin-bottom: 0;
   font-size: 16px;
 }
 
