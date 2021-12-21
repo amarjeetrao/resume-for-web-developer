@@ -122,7 +122,6 @@ header .contact-container .contact-list li span {
 }
 #main .resume-item .inner {
   padding-bottom: 20px ;
-  border-bottom: 1px solid #ededed ;
 }
 #main .resume-item h2 {
   font-size: 24px ;
@@ -155,7 +154,7 @@ header .contact-container .contact-list li span {
   font-style: italic;
 }
 .experience .detail {
-  font-size: 14px ;
+  font-size: 13px ;
 }
 
 #main .experience ul li ul {
